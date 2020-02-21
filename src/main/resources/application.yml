@@ -1,7 +1,7 @@
-#服务端口号
+#会员项目端口号
 server:
   port: 8000
-#服务名称（注册到eureka上的服务别名）
+#服务别名（服务注册到eureka上的服务别名）
 spring:
   application:
     name: app-member
